@@ -1,0 +1,22 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Dependency directory
+# Uncomment the next line if you're working with npm
+# /npm-debug.log.*
+
+# Environment variables
+.env
+
+# Compiled binary addons (e.g. node-gyp)
+/build/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
